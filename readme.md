@@ -3,9 +3,9 @@
 
 ## 👾 스터디 멤버
 
-|                      [](https://github.com/)                      |                       [](https://github.com/)                        |                       [이유진](https://github.com/2UJ1N)                        |                      []()                      |
+|                      [박예진](https://github.com/qkrdpwls)                      |                       [신연재](https://github.com/shin-yj)                        |                       [이유림](https://github.com/)                        |                      [이유진](https://github.com/2UJ1N)                        |
 |:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
-|<img src="" width="150"> | <img src="" width="150"> | <img src="https://github.com/42CSstudy/CS-Study/assets/83401978/6b1ca123-2b0b-4010-9b7d-39a2f782a0bc" width="150">| <img src="" width="150">  |
+|<img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> | <img src="https://github.com/42CSstudy/CS-Study/assets/83401978/6b1ca123-2b0b-4010-9b7d-39a2f782a0bc" width="150"> |  
 
 <br>
 
